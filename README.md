@@ -1,22 +1,20 @@
-<!-- ===================== PAC-MAN GAME GITHUB PROFILE ===================== -->
+<!-- ===================== PAC-MAN GITHUB PROFILE ===================== -->
 
-<!-- 🌊 ANIMATED HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&text=Hi%20Firman%20👋&fontSize=54&fontAlignY=35&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&text=Hi%20Firman%20👋&fontSize=54&fontAlignY=35" />
 </p>
 
-<!-- ⌨️ TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=650&color=00FFCC&center=true&vCenter=true&width=950&lines=Welcome+to+My+GitHub+Profile;Firman+Devs;Junior+Web+Developer;Python+Programmer;Frontend+Enthusiast;Building+Cool+Projects;Grinding+XP+Every+Day" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=600&color=00FFCC&center=true&vCenter=true&width=900&lines=Welcome+to+My+GitHub;Firman+Devs;Junior+Web+Developer;Pac-Man+is+Eating+My+Commits;Leveling+Up+Every+Day" />
 </p>
 
 ---
 
 ## 🧑‍💻 Bio
 🎓 Student & Junior Developer  
-💻 Focus on **Web Development, Programming, and UI Design**  
-🚀 Love building **real projects & modern technology**  
-🎯 Goal: **Professional IT / Software Engineer**
+💻 Web • Programming • UI  
+🎮 Coding like a **game**  
+🚀 Target: **Professional Software Engineer**
 
 ---
 
@@ -33,15 +31,15 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma)
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=firman-svg&theme=dark&show_icons=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=firman-svg&show_icons=true&theme=dark" height="165"/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=firman-svg&theme=dark" height="165"/>
 </p>
 
@@ -49,36 +47,28 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=firman-svg&theme=darkhub&no-frame=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=firman-svg&theme=darkhub&no-frame=true&margin-w=15"/>
 </p>
 
 ---
 
-## 📈 Contribution Activity Graph
+## 👾 PAC-MAN CONTRIBUTION GAME (LIKE SNAKE)
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=firman-svg&theme=github-dark" />
-</p>
-
----
-
-## 👾 PAC-MAN GAME MODE (ANIMATED)
-<p align="center">
-  <img src="https://media.giphy.com/media/13CoXDiaCcCoyk/giphy.gif" width="420" />
+  <img src="https://pacman-graph.vercel.app/api?username=firman-svg&theme=dark" />
 </p>
 
 <p align="center">
-<b>PAC-MAN MODE:</b> Eating commits & leveling up 🚀
+🟡 <b>Pac-Man is eating my GitHub contributions!</b>
 </p>
 
 ---
 
 ## 🎮 Developer Game Stats
 - 👾 Player: **Firman**
-- 🧠 Languages: **9+**
-- 🛠️ Frameworks: **Next.js, Laravel**
-- 🔥 Coding Mode: **ON**
-- 🚀 EXP Bar: **████████░░ 80%**
-- 🏆 Achievements: **Unlocked**
+- 🧠 Languages Unlocked: **9+**
+- 🔥 Commits Power: **HIGH**
+- 🎯 Current Level: **Junior → Pro**
+- 🚀 EXP: **████████░░ 80%**
 
 ---
 
@@ -94,15 +84,9 @@
   <img src="https://visitcount.itsvg.in/api?id=firman-svg&icon=0&color=0" />
 </p>
 
----
-
-<!-- 🌈 FOOTER ANIMATION -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=140&color=gradient&section=footer&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=120&color=gradient&section=footer" />
 </p>
 
-<p align="center">
-⭐ Thanks for visiting — press ⭐ to support this player!
-</p>
-
-<!-- ===================== END PROFILE ===================== -->
+⭐ **Thanks for visiting — press ⭐ to support this player**
+<!-- ===================== END ===================== -->
