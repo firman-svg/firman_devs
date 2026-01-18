@@ -1,19 +1,21 @@
-<!-- ===================== ANIMATED HEADER ===================== -->
+<!-- ===================== PAC-MAN GAME GITHUB PROFILE ===================== -->
+
+<!-- 🌊 ANIMATED HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&text=Hi%20Firman%20👋&fontSize=50&fontAlignY=35&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&text=Hi%20Firman%20👋&fontSize=54&fontAlignY=35&animation=fadeIn" />
 </p>
 
-<!-- ===================== TYPING ANIMATION ===================== -->
+<!-- ⌨️ TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=800&color=00FFCC&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+Profile;Firman+Devs;Junior+Web+Developer;Python+Programmer;Frontend+Enthusiast;Building+Cool+Projects;Leveling+Up+Every+Day" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=650&color=00FFCC&center=true&vCenter=true&width=950&lines=Welcome+to+My+GitHub+Profile;Firman+Devs;Junior+Web+Developer;Python+Programmer;Frontend+Enthusiast;Building+Cool+Projects;Grinding+XP+Every+Day;Never+Stop+Learning" />
 </p>
 
 ---
 
 ## 🧑‍💻 Bio
 🎓 Student & Junior Developer  
-💻 Focus on **Web Development & Programming**  
-🚀 Love building **real projects & learning new tech**  
+💻 Focus on **Web Development, Programming, and UI Design**  
+🚀 Passionate about **real projects & modern technology**  
 🎯 Goal: **Professional IT / Software Engineer**
 
 ---
@@ -38,39 +40,72 @@
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=firman-svg&theme=dark&hide_border=false)
-<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=firman-svg&theme=dark&hide_border=false)
-<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=firman-svg&theme=dark&hide_border=false&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=firman-svg&theme=dark&show_icons=true" height="165"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=firman-svg&theme=dark" height="165"/>
+</p>
 
 ---
 
-## 🐍 Project Stats – Snake Game (Contribution Graph)
+## 🧠 Most Used Languages
 <p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=firman-svg&theme=dark&layout=compact" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=firman-svg&theme=darkhub&no-frame=true&margin-w=15" />
+</p>
+
+---
+
+## 📈 Contribution Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=firman-svg&theme=github-dark" />
+</p>
+
+---
+
+## 👾 PAC-MAN GAME — Contribution Graph
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abozanona/pacman-contribution-graph/master/dist/pacman.svg" />
 </p>
 
 ---
 
 ## 🎮 Developer Game Stats
+- 👾 Player: **Firman**
 - 🧠 Languages Learned: **9+**
-- 🛠️ Frameworks Used: **Next.js, Laravel**
-- 🔥 Focus Mode: **ON**
-- 🚀 EXP Progress: **████████░░ 80%**
+- 🛠️ Frameworks: **Next.js, Laravel**
+- 🔥 Coding Mode: **ON**
+- 🚀 EXP Bar: **████████░░ 80%**
+- 🏆 Achievements: **Unlocked**
+
+---
+
+## 💬 Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</p>
 
 ---
 
 ## 👀 Profile Views
-[![](https://visitcount.itsvg.in/api?id=firman-svg&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=firman-svg&icon=0&color=0" />
+</p>
 
 ---
 
-<!-- ===================== FOOTER ===================== -->
+<!-- 🌈 FOOTER ANIMATION -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=120&color=gradient&section=footer&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=140&color=gradient&section=footer&animation=fadeIn" />
 </p>
 
 <p align="center">
-⭐ Thanks for visiting — don’t forget to ⭐ my repositories!
+⭐ Thanks for visiting — press ⭐ to support this player!
 </p>
+
+<!-- ===================== END PROFILE ===================== -->
