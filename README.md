@@ -7,7 +7,7 @@
 
 <!-- ⌨️ TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=650&color=00FFCC&center=true&vCenter=true&width=950&lines=Welcome+to+My+GitHub+Profile;Firman+Devs;Junior+Web+Developer;Python+Programmer;Frontend+Enthusiast;Building+Cool+Projects;Grinding+XP+Every+Day;Never+Stop+Learning" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=650&color=00FFCC&center=true&vCenter=true&width=950&lines=Welcome+to+My+GitHub+Profile;Firman+Devs;Junior+Web+Developer;Python+Programmer;Frontend+Enthusiast;Building+Cool+Projects;Grinding+XP+Every+Day" />
 </p>
 
 ---
@@ -15,7 +15,7 @@
 ## 🧑‍💻 Bio
 🎓 Student & Junior Developer  
 💻 Focus on **Web Development, Programming, and UI Design**  
-🚀 Passionate about **real projects & modern technology**  
+🚀 Love building **real projects & modern technology**  
 🎯 Goal: **Professional IT / Software Engineer**
 
 ---
@@ -47,13 +47,6 @@
 
 ---
 
-## 🧠 Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=firman-svg&theme=dark&layout=compact" />
-</p>
-
----
-
 ## 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=firman-svg&theme=darkhub&no-frame=true&margin-w=15" />
@@ -68,16 +61,20 @@
 
 ---
 
-## 👾 PAC-MAN GAME — Contribution Graph
+## 👾 PAC-MAN GAME MODE (ANIMATED)
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abozanona/pacman-contribution-graph/master/dist/pacman.svg" />
+  <img src="https://media.giphy.com/media/13CoXDiaCcCoyk/giphy.gif" width="420" />
+</p>
+
+<p align="center">
+<b>PAC-MAN MODE:</b> Eating commits & leveling up 🚀
 </p>
 
 ---
 
 ## 🎮 Developer Game Stats
 - 👾 Player: **Firman**
-- 🧠 Languages Learned: **9+**
+- 🧠 Languages: **9+**
 - 🛠️ Frameworks: **Next.js, Laravel**
 - 🔥 Coding Mode: **ON**
 - 🚀 EXP Bar: **████████░░ 80%**
